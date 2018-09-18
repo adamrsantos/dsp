@@ -2,6 +2,8 @@
 
 ---
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Standard Error = 1.4
+>> Mean Error = -0.0003
+>> Since the mean error is close to 0, it appears that this is an unbiased way of estimating games.
 
 ---
